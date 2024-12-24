@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  X",
+    "XBX",
+    "B B"
+  ],
+  "key": {
+    "B": {
+      "item": "whatareyouvotingfor:armadillo_scute"
+    },
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "revampedwolf:golden_wolf_armor"
+  }
+}

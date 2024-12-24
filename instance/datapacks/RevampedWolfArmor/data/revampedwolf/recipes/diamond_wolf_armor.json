@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  X",
+    "XBX",
+    "B B"
+  ],
+  "key": {
+    "B": {
+      "item": "whatareyouvotingfor:armadillo_scute"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "revampedwolf:diamond_wolf_armor"
+  }
+}
