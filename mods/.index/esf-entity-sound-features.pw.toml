@@ -1,0 +1,16 @@
+filename = 'entity_sound_features_1.20.4-forge-0.7.1.jar'
+name = '[ESF] Entity Sound Features'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e69c294320cfbf7000683a9401e2c5849772541c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6994928
+project-id = 1060324

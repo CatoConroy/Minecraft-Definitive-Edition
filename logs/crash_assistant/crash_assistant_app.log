@@ -1,0 +1,50 @@
+[2025-10-08 04:17:29.238] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2025-10-08 04:17:29.241] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, local\crash_assistant\31392_1759915044511_app.jar, -parentPID, 31392, -parentStarted, 1759915044511, -platform, FORGE, -loaderJarName, fmlloader-1.20.1-47.4.9.jar, -minecraftVersion, 1.20.1, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarName, CrashAssistant-forge-1.19-1.20.1-1.10.7.jar, -classPath, local\crash_assistant\31392_1759915044511_app.jar;local\crash_assistant\31392_1759915044511_mod.jar;C:\Users\Cato\AppData\Roaming\PrismLauncher\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\Cato\AppData\Roaming\PrismLauncher\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\Cato\AppData\Roaming\PrismLauncher\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\Cato\AppData\Roaming\PrismLauncher\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Cato\AppData\Roaming\PrismLauncher\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\Cato\AppData\Roaming\PrismLauncher\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar, -parentXms, 8096m, -parentXmx, 12096m, -systemRAM, 31.7g, -processor, MTJ0aCBHZW4gSW50ZWwoUikgQ29yZShUTSkgaTctMTI3MDBI, -serialisedGPUs, VnVsa2FuIEdQVSBkZXRlY3Rpb24gYWRkb24gbm90IGZvdW5kLCBmYWxsaW5nIGJhY2sgdG8gRGlyZWN0WApTdWNjZXNzZnVsbHkgZGV0ZWN0ZWQgR1BVcyB1c2luZyBEaXJlY3RYOgpJTlRFR1JBVEVEIDogSW50ZWwoUikgSXJpcyhSKSBYZSBHcmFwaGljcwpERURJQ0FURUQgOiBOVklESUEgR2VGb3JjZSBSVFggMzA3MCBUaSBMYXB0b3AgR1BVCg0K]
+[2025-10-08 04:17:29.241] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\Cato\AppData\Roaming\PrismLauncher\instances\Minecraft- Definitive Edition\minecraft
+[2025-10-08 04:17:29.241] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-forge-1.19-1.20.1-1.10.7.jar
+[2025-10-08 04:17:29.243] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 31392
+[2025-10-08 04:17:29.243] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1759915044511
+[2025-10-08 04:17:29.246] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: FORGE
+[2025-10-08 04:17:29.246] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: fmlloader-1.20.1-47.4.9.jar
+[2025-10-08 04:17:29.246] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.20.1
+[2025-10-08 04:17:29.247] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2025-10-08 04:17:29.247] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXms: 8096m
+[2025-10-08 04:17:29.247] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXmx: 12096m
+[2025-10-08 04:17:29.247] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: systemRAM: 31.7g
+[2025-10-08 04:17:29.248] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: processor: 12th Gen Intel(R) Core(TM) i7-12700H
+[2025-10-08 04:17:29.248] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+Vulkan GPU detection addon not found, falling back to DirectX
+Successfully detected GPUs using DirectX:
+INTEGRATED : Intel(R) Iris(R) Xe Graphics
+DEDICATED : NVIDIA GeForce RTX 3070 Ti Laptop GPU
+
+
+[2025-10-08 04:17:29.248] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: os.name: windows 11
+[2025-10-08 04:17:29.253] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\Cato\AppData\Roaming\PrismLauncher\java\java-runtime-gamma\bin\javaw.exe
+[2025-10-08 04:17:29.253] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 17.0.15+6-LTS
+[2025-10-08 04:17:29.277] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 31392 to stop.
+[2025-10-08 04:17:41.452] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
+NVIDIA GeForce RTX 3070 Ti Laptop GPU/PCIe/SSE2
+[2025-10-08 04:17:43.480] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Detected FML error modloading screen.
+[2025-10-08 04:17:43.510] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\Cato\AppData\Roaming\PrismLauncher\instances\Minecraft- Definitive Edition\minecraft\logs\latest.log
+[2025-10-08 04:17:43.513] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding debug.log from C:\Users\Cato\AppData\Roaming\PrismLauncher\instances\Minecraft- Definitive Edition\minecraft\logs\debug.log
+[2025-10-08 04:17:43.516] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding PrismLauncher-0.log from C:\Users\Cato\AppData\Roaming\PrismLauncher\instances\Minecraft- Definitive Edition\minecraft\..\..\..\logs\PrismLauncher-0.log
+[2025-10-08 04:17:43.520] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: client.log from C:\Users\Cato\AppData\Roaming\PrismLauncher\instances\Minecraft- Definitive Edition\minecraft\logs\kubejs\client.log
+[2025-10-08 04:17:43.521] [WARN] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: File "logs\kubejs\server.log" is empty.
+[2025-10-08 04:17:43.523] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: startup.log from C:\Users\Cato\AppData\Roaming\PrismLauncher\instances\Minecraft- Definitive Edition\minecraft\logs\kubejs\startup.log
+[2025-10-08 04:17:43.525] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\Cato\AppData\Roaming\PrismLauncher\instances\Minecraft- Definitive Edition\minecraft\logs\crash_assistant\crash_assistant_app.log
+[2025-10-08 04:17:43.525] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: false
+[2025-10-08 04:17:43.525] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: false
+[2025-10-08 04:17:43.525] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: stop() function of Minecraft fired: false
+[2025-10-08 04:17:43.526] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: close() function of Minecraft failed: false
+[2025-10-08 04:17:43.526] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: emergencySave() function of Minecraft fired: false
+[2025-10-08 04:17:43.532] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isModpackCreator: true
+[2025-10-08 04:17:43.533] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isHelpLinkDefault: true
+[2025-10-08 04:17:43.533] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: helpLink: https://discord.minecraftforge.net
+[2025-10-08 04:17:43.535] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft crashed without any crash report. Starting Crash Assistant app.
+[2025-10-08 04:17:43.974] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantGUI took to start: 0.464 seconds.
+[2025-10-08 04:17:44.031] [INFO] [dev.kostromdan.mods.crash_assistant.common_config.mod_list.ModListUtils]: Parsed 76 mod(s) metadata in 51 ms
+[2025-10-08 04:17:44.054] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding modlist.txt from C:\Users\Cato\AppData\Roaming\PrismLauncher\instances\Minecraft- Definitive Edition\minecraft\logs\modlist.txt
+[2025-10-08 04:17:44.155] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reading finished in 27 ms
+[2025-10-08 04:17:44.160] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Analysis finished in 56 ms
+[2025-10-08 04:19:17.640] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Crash Assistant closed.
